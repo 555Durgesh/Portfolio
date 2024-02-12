@@ -1,27 +1,27 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  siteTitle: 'Durgesh Mishra | Software Engineer | Freelancer',
+
+  email: 'durgeshmishra6099@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://github.com/Durgesh005',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/durgesh-mishra-786834224/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Twitter',
+      url: 'https://twitter.com/DurgeshM005',
     },
+    {
+      name: 'Leetcode',
+      url: 'https://leetcode.com/Durgesh005/',
+    },
+
+
   ],
 
   navLinks: [

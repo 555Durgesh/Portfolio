@@ -1,5 +1,5 @@
 ---
-date: '2019-11-25'
+date: '6'
 title: 'Upstatement.com'
 github: ''
 external: 'https://www.upstatement.com/'

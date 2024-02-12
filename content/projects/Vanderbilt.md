@@ -1,5 +1,5 @@
 ---
-date: '2021-06-01'
+date: '7'
 title: 'Vanderbilt Design System'
 github: ''
 external: 'https://www.vanderbilt.edu/'

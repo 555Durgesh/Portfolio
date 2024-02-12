@@ -11,7 +11,7 @@ const StyledSocialList = styled.ul`
   align-items: center;
   margin: 0;
   padding: 0;
-  list-style: none;
+  list-style: none; 
 
   &:after {
     content: '';

@@ -1,11 +1,11 @@
 {
-  "name": "v4",
+  "name": "durgeshportfolio",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "author": "Durgesh Mishra<durgeshmishra6099@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/Durgesh005"
   },
   "keywords": [
     "gatsby"
