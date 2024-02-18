@@ -1,9 +1,7 @@
 ---
 date: '2023-12-17'
 title: 'Shoply'
-cover: './shopy.jpeg'
 github: 'https://github.com/Durgesh005/Shoply-E-Commerce'
-# external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - Android
   - Kotlin

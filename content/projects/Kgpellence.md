@@ -6,7 +6,6 @@ tech:
   - Kotlin
   - Android
   - Room Database
-company: ''
 showInProjects: true
 ---
  KGPELLENCE app, from inception to 4500+ users on Play Store. Oversaw project, design, implementation. Focused on large-scale, secure software development.

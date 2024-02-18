@@ -2,7 +2,6 @@
 date: '2023-01-07'
 title: 'Whatsapp Clone'
 github: 'https://github.com/Durgesh005/Whatsapp_Clone'
-#external: 'https://octoprofile.now.sh'
 tech:
   - Kotlin
   - Android

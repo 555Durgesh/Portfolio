@@ -2,7 +2,6 @@
 date: '2023-01-04'
 title: 'Telegram Clone'
 github: 'https://github.com/Durgesh005/Telegram_Clone'
-#external: 'https://bchiang7.github.io/v3/'
 tech:
   - Kotlin
   - Android
