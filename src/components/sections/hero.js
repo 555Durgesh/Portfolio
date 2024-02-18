@@ -75,7 +75,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="#contact"
+      href="https://www.linkedin.com/in/sde-durgesh/"
       target="_blank"
       rel="noreferrer">
       Hire Me!

@@ -6,7 +6,6 @@ tech:
   - Kotlin
   - Android
   - SQL
-company: 'Upstatement'
 showInProjects: true
 ---
 Developing a custom multisite-compatible Store Management System tailored for local stores.

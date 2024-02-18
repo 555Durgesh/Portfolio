@@ -10,7 +10,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/durgesh-mishra-786834224/',
+      url: 'https://www.linkedin.com/in/sde-durgesh/',
     },
     {
       name: 'Twitter',

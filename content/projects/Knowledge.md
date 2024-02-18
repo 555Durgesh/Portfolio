@@ -8,7 +8,7 @@ tech:
   - Android
   - API
   - Retrofit
-company: 'Apple'
+company: ''
 showInProjects: true
 ---
 Kotlin-based Quiz Zone Android app with Firebase, MVC architecture, and View/Data Binding.
