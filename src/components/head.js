@@ -61,6 +61,7 @@ const Head = ({ title, description, image }) => {
 
       <meta name="google-site-verification" content="DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk" />
     </Helmet>
+
   );
 };
 
