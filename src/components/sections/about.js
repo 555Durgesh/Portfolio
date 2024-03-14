@@ -142,13 +142,13 @@ const About = () => {
             </p>
 
             {/* <p>
-            In 2021, I ventured into app development, focusing on Android Studio. Specializing in building robust Android applications with intuitive interfaces, I've had the privilege of working at a startup, a large corporation, and as an Open Source Contributor.
+            In 2021, I ventured add into app development, focusing on Android Studio. Specializing in building robust Android applications with intuitive interfaces, I've had the privilege of working at a startup, a large corporation, and as an Open Source Contributor.
             </p> */}
 
             <p>
               Fast-forward to today, I've had the privilege of working at {' '}
               <a href="https://www.linkedin.com/company/kgpellence/?originalSubdomain=in">a startup</a>,{' '}
-              <a href="https://internship.codeclause.com/">a large corporation</a>,{' '}
+              <a href="https://www.linkedin.com/company/codeclause/?originalSubdomain=in">a large corporation</a>,{' '}
               <a href="https://gssoc.girlscript.tech/project">as an Open Source Contributor.</a>,
               My main focus these days is building accessible, inclusive products and digital experiences at <a href="https://www.upwork.com/freelancers/~01da393ae8e3fb6a77?viewMode=1">Upwork</a> for a variety of
               clients.
