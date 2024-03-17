@@ -142,7 +142,7 @@ const About = () => {
             </p>
 
             {/* <p>
-            In 2021, I ventured add into app development, focusing on Android Studio. Specializing in building robust Android applications with intuitive interfaces, I've had the privilege of working at a startup, a large corporation, and as an Open Source Contributor.
+            In 2021, I ventured addto into app development, focusing on Android Studio. Specializing in building robust Android applications with intuitive interfaces, I've had the privilege of working at a startup, a large corporation, and as an Open Source Contributor.
             </p> */}
 
             <p>
