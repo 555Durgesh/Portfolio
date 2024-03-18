@@ -67,7 +67,7 @@ const Hero = () => {
       <p>
       I'm a software engineer dedicated to crafting exceptional digital experiences. While I occasionally explore design, my primary focus remains on developing accessible, human-centered products.{' '}
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+          Upstatement Done
         </a> */}
       </p>
     </>
