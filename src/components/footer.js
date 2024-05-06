@@ -77,7 +77,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://github.com/Durgesh005/Portfolio')
+    fetch('https://github.com/555Durgesh/Portfolio')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -87,7 +87,7 @@ const Footer = () => {
         });
       })
       .catch(e => console.error(e));
-    
+
   }, []);
 
   return (
@@ -106,7 +106,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/Durgesh005/Portfolio">
+        <a href="https://github.com/555Durgesh/Portfolio">
           <div>Designed &amp; Built by Durgesh Mishra</div>
 
           {/* {githubInfo.stars && githubInfo.forks && (
