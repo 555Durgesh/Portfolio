@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Durgesh Mishra is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://durgeshmishra.netlify.app/', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: 'static/og.jpeg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@DurgeshM005',
   },
   plugins: [
@@ -34,7 +34,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images/demo1.jpeg`,
+        path: `${__dirname}/src/images`,
       },
     },
     {
